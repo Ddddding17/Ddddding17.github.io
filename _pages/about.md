@@ -26,7 +26,6 @@ redirect_from:
 | **Academic Rank** | 1 / 278 |
 | **English** | CET-4: 566 · CET-6: 563 |
 | **Political Status** | CPC Member |
-| **Email** | [dinghaoran@mail.nwpu.edu.cn](mailto:dinghaoran@mail.nwpu.edu.cn) |
 
 ---
 
