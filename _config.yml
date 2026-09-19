@@ -20,7 +20,7 @@ repository               : "Ddddding17/Ddddding17.github.io"
 # Site Author
 author:
   # Biographic information
-  avatar           : "images/wiki/plotly_example.png"
+  avatar           : "/images/wiki/plotly_example.png
   name             : "Haoran Ding"
   # pronouns         : "he/him"
   bio              : "Undergraduate Student in Software Engineering | Incoming Graduate Student at Tsinghua SIGS"
