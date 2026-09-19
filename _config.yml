@@ -13,14 +13,14 @@ title                    : "Haoran Ding | Personal Homepage"
 title_separator          : "-"
 name                     : &name "Haoran Ding"
 description              : &description "Academic homepage of Haoran Ding, undergraduate at Northwestern Polytechnical University, incoming graduate student at Tsinghua University SIGS."
-url                      : https://Ddddding17.github.io
+url                      : "https://Ddddding17.github.io"
 baseurl                  : ""
 repository               : "Ddddding17/Ddddding17.github.io"
 
 # Site Author
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "/images/500x300.png"
   name             : "Haoran Ding"
   # pronouns         : "he/him"
   bio              : "Undergraduate Student in Software Engineering | Incoming Graduate Student at Tsinghua SIGS"
