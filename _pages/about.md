@@ -16,18 +16,6 @@ redirect_from:
 
 🎉 **Admitted to Tsinghua University Shenzhen International Graduate School (SIGS) for graduate study.**
 
----
-
-## Quick Facts
-
-| | |
-|---|---|
-| **GPA** | 3.949 / 4.1 |
-| **Academic Rank** | 1 / 278 |
-| **English** | CET-4: 566 · CET-6: 563 |
-| **Political Status** | CPC Member |
-
----
 
 ## About Me
 
